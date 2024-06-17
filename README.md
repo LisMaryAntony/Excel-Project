@@ -43,3 +43,6 @@ Data cleaning and preprocessing steps:
 
 6. Conclusion
      In conclusion, the analysis of the Bike Sales Data.xlsx dataset reveals insightful trends and patterns in customer behavior and model performance. Key findings highlight the popularity of bike model across diverse demographic segments, suggesting opportunities for targeted marketing strategies and product enhancements. Moving forward, leveraging these insights can enhance sales growth and customer satisfaction in the competitive bike market.
+
+7. Appendix
+   The data analysis excel sheet.
